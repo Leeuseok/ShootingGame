@@ -20,3 +20,11 @@
 <img width="1024" alt="flowchart" src="https://github.com/user-attachments/assets/51f20bf4-8585-4105-9bf5-f60eba534960">
 
 ## 🖼 화면 구성
+### 시작화면
+![image01](https://github.com/user-attachments/assets/0b31820d-f3f0-453e-a74a-62f18bce8dc9)
+### 조작 안내
+![image02](https://github.com/user-attachments/assets/172cb1ba-8ebe-4033-ab62-2dcc2021c2c4)
+### 게임 실행
+![image03](https://github.com/user-attachments/assets/48b51135-0f05-4290-8700-27f5c4fbd646)
+### 게임 종료
+![image04](https://github.com/user-attachments/assets/075439ec-aca7-478a-b31d-98fce0bee95e)
