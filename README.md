@@ -28,3 +28,5 @@
 ![image03](https://github.com/user-attachments/assets/48b51135-0f05-4290-8700-27f5c4fbd646)
 ### 게임 종료
 ![image04](https://github.com/user-attachments/assets/075439ec-aca7-478a-b31d-98fce0bee95e)
+### 실행 영상
+<img width="300" src="https://github.com/user-attachments/assets/7f09a194-b925-4cf8-be14-7f53a0374467">
